@@ -19,7 +19,7 @@
     animation-delay: .1s;
 }
 .pay-now-btn::after{
-    content: "129";
+    content: "69";
 }
 @media screen and (max-width: 654px) {
     .pay-now-btn{
